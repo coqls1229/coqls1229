@@ -8,7 +8,7 @@ be interested in Multimodal Learning
 
 `2024.01 ~ 2024.06` Member of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ. (NLP Track)
 
-`2023.03 ~ 2022.12` Manager of DASOM, Academic Club at the University of Software Convergence, Kyung Hee Univ.
+`2023.03 ~ 2023.12` Manager of DASOM, Academic Club at the University of Software Convergence, Kyung Hee Univ.
 
 `2022.03 ~ 2022.12` Member of DASOM, Academic Club at the University of Software Convergence, Kyung Hee Univ.
 
