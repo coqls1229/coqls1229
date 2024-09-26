@@ -1,5 +1,5 @@
 ## ChaeBeen Bang
-be interested in Multimodal Learning 
+be interested in 3D Vision and Multimodal Learning 
 
 ### 🏢 Experience
 
