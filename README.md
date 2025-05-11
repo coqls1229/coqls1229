@@ -18,7 +18,8 @@ be interested in 3D Vision and Multimodal Learning
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
-| `2025.01` | Silicon Valley Innovation & Entreprenuership Award | Grand Award  |
-| `2024.05` | KhuDA 5th Conference | Excellence Award  |
+| `2025.05` | 2025 Khuthon | Top Prize  |
+| `2025.01` | Silicon Valley Innovation & Entreprenuership Award | Grand Prize  |
+| `2024.05` | KhuDA 5th Conference | Excellence Prize  |
 | `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize |
-| `2023.11` | 2023 KHU SW Festival | Junior Award  |
+| `2023.11` | 2023 KHU SW Festival | Junior Prize  |
