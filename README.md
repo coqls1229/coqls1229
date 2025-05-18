@@ -11,7 +11,7 @@ Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision**
 | `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize |
 | `2023.11` | 2023 KHU SW Festival | Junior Prize  |
 
-### 🏢 Experience
+### 🚀 Experience
 
 `2025.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.<br>
 `2024.07 ~ current` Undergraduate Intern, Visual Science Lab, Kyunghee Univ.<br>
