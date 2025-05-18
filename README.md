@@ -1,7 +1,19 @@
 ## ChaeBeen Bang
-be interested in 3D Vision and Multimodal Learning 
+Hi there!🪽<br>
+I'm interested in Multimodal Video Understanding and 3d Vision
+
+### 🏆 Awards
+
+| Period | Competition | Prize |
+|-------|:--------:|:---------:|
+| `2025.05` | 2025 Khuthon | Top Prize  |
+| `2025.01` | Silicon Valley Innovation & Entreprenuership Award | Grand Prize  |
+| `2024.05` | KhuDA 5th Conference | Excellence Prize  |
+| `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize |
+| `2023.11` | 2023 KHU SW Festival | Junior Prize  |
 
 ### 🏢 Experience
+
 `2025.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.<br>
 `2024.07 ~ current` Undergraduate Intern, Visual Science Lab, Kyunghee Univ.<br>
 `2024.07 ~ 2024.08` Leader of AI Track, 2024 School of Computing Track, Kyunghee Univ.<br>
@@ -14,12 +26,3 @@ be interested in 3D Vision and Multimodal Learning
 
 
 
-### 🏆 Awards
-
-| Period | Competition | Prize |
-|-------|:--------:|:---------:|
-| `2025.05` | 2025 Khuthon | Top Prize  |
-| `2025.01` | Silicon Valley Innovation & Entreprenuership Award | Grand Prize  |
-| `2024.05` | KhuDA 5th Conference | Excellence Prize  |
-| `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize |
-| `2023.11` | 2023 KHU SW Festival | Junior Prize  |
