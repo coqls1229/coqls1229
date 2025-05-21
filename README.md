@@ -1,5 +1,5 @@
 ## 🫧 ChaeBeen Bang
-Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision** 🪽
+Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision** 
 
 ### 🏆 Awards
 
