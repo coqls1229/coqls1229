@@ -5,7 +5,7 @@ Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision**
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
-| `2025.05` | 2025 Khuthon | Top Prize  |
+| `2025.05` | 2025 Khuthon (KHU Software Hackathon) | Top Prize  |
 | `2025.01` | Silicon Valley Innovation & Entreprenuership Award | Grand Prize  |
 | `2024.05` | KhuDA 5th Conference | Excellence Prize  |
 | `2023.11` | SCAICO(Seoul Central AI Competition) | Grand Prize |
