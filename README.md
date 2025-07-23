@@ -13,8 +13,9 @@ Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision**
 
 ### 🚀 Experiences
 
-`2025.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.<br>
 `2024.07 ~ current` Undergraduate Intern, Visual Science Lab, Kyunghee Univ.<br>
+`2025.01` Completion of Silicon Valley Innovation & Startup Program at Saarland Univ.<br>
+`2025.01` Completion of Silicon Valley Innovation & Startup Program at San Jose State Univ.<br>
 `2024.07 ~ 2024.08` Leader of AI Track, 2024 School of Computing Track, Kyunghee Univ.<br>
 `2024.01 ~ 2024.02` Vice President of DASOM, Academic Club at the College of Software, Kyunghee Univ.<br>
 `2024.01 ~ 2024.06` Member of KHUDA 5th, Data Analysis & AI Club, Kyunghee Univ. (NLP Track)<br>
