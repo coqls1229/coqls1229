@@ -5,6 +5,8 @@ Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision**
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
+| `2026.08` | 2026 DASOMthon | Grand Prize  |
+| `2026.04` | 2026 Khuthon (KHU Software Hackathon) | Audience Award  |
 | `2025.07` | Innovation & Startup Capstone Program at Saarland | Grand Prize  |
 | `2025.05` | 2025 Khuthon (KHU Software Hackathon) | Top Prize  |
 | `2025.01` | Silicon Valley Innovation & Entreprenuership Award | Grand Prize  |
