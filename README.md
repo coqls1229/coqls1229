@@ -13,7 +13,7 @@ Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision**
 | `2023.11` | 2023 KHU SW Festival | Junior Prize  |
 
 ### 🚀 Experiences
-`2026.08 ~ current` M.S. in Artificial Intelligence, KAIST.
+`2026.08 ~ current` M.S. in Artificial Intelligence, KAIST.<br>
 `2024.07 ~ 2026.01` Undergraduate Intern, Visual Science Lab, Kyunghee Univ.<br>
 `2022.03 ~ current` B.S. in Artificial Intelligence, Kyunghee Univ.
 
