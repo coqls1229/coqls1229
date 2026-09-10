@@ -8,6 +8,6 @@ Hi there! I'm interested in **Multimodal Video Understanding** and **3d Vision**
 ### 🔬 Experiences
 `2026.08 ~ current` **Master's Student, BISPL (Bio Imaging, Signal Processing, and Machine Learning Lab), KAIST**<br>
 `2025.07` Participant in Innovation & Startup Capstone Program, Saarland University (Saarbrücken, Germany)<br>
-`2025.01` Participant in Silicon Valley Innovation & Entreprenuership, San José State University (San Jose, CA, USA)<br>
+`2025.01` Participant in Silicon Valley Innovation & Entrepreneurship, San José State University (San Jose, CA, USA)<br>
 `2024.07 ~ 2026.01` Undergraduate Intern, Visual Science Lab, Kyunghee University<br>
 
